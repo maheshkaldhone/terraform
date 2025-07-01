@@ -19,3 +19,4 @@ crash.log
 .terraformrc
 terraform.rc
 *.tfstate.lock.info
+*.variable.tf
