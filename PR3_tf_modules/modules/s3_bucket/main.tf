@@ -1,5 +1,5 @@
-resource "aws_s3_bucket" "denuio128550949" {
-  bucket = "denuio128550949"
+resource "aws_s3_bucket" "denuio128550949m" {
+  bucket = "denuio128550949m"
   tags   = {
     Environment = "Demo"
     Name        = "PR3 S3 Bucket"
